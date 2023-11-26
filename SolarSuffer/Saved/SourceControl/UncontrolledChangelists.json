@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/SolarSuffer/Blueprints/BP_Astroneer.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/SolarSuffer/Blueprints/BP_AstroneerController.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/SolarSuffer/Blueprints/BP_AstroneerMode.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/ThirdPerson/Input/Actions/IA_UpDown.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/SolarSuffer/Animations/BS_Fly.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/SolarSuffer/UI/WPB_Bars.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/SolarSuffer/Weapon/BP_Weapon.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/ThirdPerson/Input/Actions/IA_Weapon.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/SolarSuffer/Blueprints/BP_Player.uasset",
+				"C:/Users/kobyz/Documents/Unreal Projects/SolarSuffer/Content/SolarSuffer/UI/WPB_HealthBar.uasset"
+			]
+		}
+	]
+}
